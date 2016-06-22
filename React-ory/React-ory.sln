@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React-ory", "React-ory\React-ory.csproj", "{BA906587-2C06-409D-ACEE-C389567A03FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React-ory.Tests", "React-ory.Tests\React-ory.Tests.csproj", "{AB371179-3DE1-4825-9D11-343C2136B51C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA906587-2C06-409D-ACEE-C389567A03FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA906587-2C06-409D-ACEE-C389567A03FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA906587-2C06-409D-ACEE-C389567A03FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA906587-2C06-409D-ACEE-C389567A03FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB371179-3DE1-4825-9D11-343C2136B51C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB371179-3DE1-4825-9D11-343C2136B51C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB371179-3DE1-4825-9D11-343C2136B51C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB371179-3DE1-4825-9D11-343C2136B51C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
